@@ -3,6 +3,18 @@
     <channel>
         <title>Neeson</title>
         <item>
+            <title>0.2.4</title>
+            <pubDate>Sun, 23 Aug 2026 18:30:05 -0700</pubDate>
+            <link>https://github.com/basic-intelligence/liam-neeson-releases</link>
+            <sparkle:version>0.2.4</sparkle:version>
+            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[Neeson 0.2.4 gives SKILL.md a wider reading column, clear section rhythm, and a compact availability header.
+]]></description>
+            <enclosure url="https://github.com/basic-intelligence/liam-neeson-releases/releases/download/v0.2.4/Neeson-0.2.4.zip" length="4245672" type="application/octet-stream" sparkle:edSignature="806uKYpBEAZ2fLaNTSi53KFT9r+ykUWLTc6+J0xV60X6A3mvBrLBLgq+pvzk76v6wCfTvDeRIIRwQn1gCwEXBA=="/>
+        </item>
+        <item>
             <title>0.2.3</title>
             <pubDate>Sun, 23 Aug 2026 16:26:23 -0700</pubDate>
             <link>https://github.com/basic-intelligence/liam-neeson-releases</link>
@@ -25,18 +37,6 @@
             <description sparkle:format="markdown"><![CDATA[Neeson 0.2.2 adds secure in-app updates and keeps the Notes-style skill manager available across your Macs.
 ]]></description>
             <enclosure url="https://github.com/basic-intelligence/liam-neeson-releases/releases/download/v0.2.2/Neeson-0.2.2.zip" length="4243752" type="application/octet-stream" sparkle:edSignature="RRm2wyQknFCIo7Bd6R/wUB1LzPysZKmhRd5yQYXQGSsQ+NXeaZdZIEhevVkGvm8TJcZncc18jas9a+IQKle1CA=="/>
-        </item>
-        <item>
-            <title>0.2.1</title>
-            <pubDate>Sun, 23 Aug 2026 15:49:41 -0700</pubDate>
-            <link>https://github.com/basic-intelligence/liam-neeson-releases</link>
-            <sparkle:version>0.2.1</sparkle:version>
-            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Neeson 0.2.1 adds secure in-app updates and keeps the Notes-style skill manager available across your Macs.
-]]></description>
-            <enclosure url="https://github.com/basic-intelligence/liam-neeson-releases/releases/download/v0.2.1/Neeson-0.2.1.zip" length="4243768" type="application/octet-stream" sparkle:edSignature="UN4qy/bDy6B6oEJgs+2VHkj2w5N8oOQltrWezjwzzTIuYhHZ3VY2QEGvQTpWY1LalZHqHpSVY5PGFh+iPGuWAg=="/>
         </item>
     </channel>
 </rss>
